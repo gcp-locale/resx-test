@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="boolean_key" xml:space="preserve">
+    <value>sl - --- true
+</value>
+  </data>
+  <data name="empty_string_translation" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="key_with_description" xml:space="preserve">
+    <value>sl - Now that's a decsription! (For some formats at least)</value>
+    <comment>sl - This is the superb description for this key!</comment>
+  </data>
+  <data name="key_with_line-break" xml:space="preserve">
+    <value>sl - This translations contains
+a line-break.</value>
+  </data>
+  <data name="nested.deeply.key" xml:space="preserve">
+    <value>I'm a deeply nested key.</value>
+  </data>
+  <data name="nested.key" xml:space="preserve">
+    <value>This key is nested inside a namespace.</value>
+    <comment>Optional developer comment about the string [Translator Comment: Optional translator comment]</comment>
+  </data>
+  <data name="null_translation" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="pluralized_key" xml:space="preserve">
+    <value>sl - This could be pluralized.</value>
+  </data>
+  <data name="sample_collection" xml:space="preserve">
+    <value>sl - ---
+- first item
+- second item
+- third item
+</value>
+  </data>
+  <data name="simple_key" xml:space="preserve">
+    <value>sl - simple key, simple message, everything so simple duplicate.</value>
+  </data>
+  <data name="unverified_key" xml:space="preserve">
+    <value>sl - This translation is not yet verified and is waiting for it. (In some formats we export this status as well)</value>
+  </data>
+  <data name="test_interpolation" xml:space="preserve">
+    <value>sl - My name is {0}, I work at {workplace} since {year}</value>
+  </data>
+  <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>[base64 mime encoded serialized .NET Framework object]</value>
+  </data>
+  <data name="Color1" xml:space="preserve">Blue</data>
+  <data name="i1" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="flag" type="System.Drawing.Bitmap, System.Drawing,&#xA;    Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+    AAEAAAD/////AQAAAAAAAAAMAgAAADtTeX…
+  </value>
+  </data>
+  <data>
+    <value/>
+  </data>
+</root>

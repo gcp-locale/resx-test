@@ -86,4 +86,7 @@
    <data name="lastname">
       <value>Palmeras</value>
    </data>
+   <data name="hobbies">
+      <value>Hiking, Island Hopping, Travel</value>
+   </data>
 </root>

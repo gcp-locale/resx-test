@@ -51,4 +51,16 @@
       <value>>AAEAAAD/////AQAAAAAAAAAMAgAAADtTeX…</value>
    </data>
    <data name="BackgroundColor" type="System.Drawing.Color, System.Drawing">Red</data>
+   <data name="ForegroundImage" mimetype="application/x-microsoft.net.object.binary.base64">
+      <value>AAEAAAD/////AQAAAAAAAAAMAgAAADtTeX…</value>
+   </data>
+   <data name="area">
+      <value>Servicing areas in Southeast Asia like countries of Philippines, Malaysia, Singapore.</value>
+      <comment>Main customer countries</comment>
+   </data>
+   <data name="description">
+      <value>A system the aggregate airport departure and arrival in different airport accross Australia and Ocenia</value>
+      <comment>This is second description of project.</comment>
+   </data>
+
 </root>

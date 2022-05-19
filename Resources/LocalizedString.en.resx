@@ -47,15 +47,4 @@
    <data name="BackgroundImage" mimetype="application/x-microsoft.net.object.binary.base64">
       <value>>AAEAAAD/////AQAAAAAAAAAMAgAAADtTeX…</value>
    </data>
-   <data name="technologies">
-      <value>This project use C# 2021 version and ASP.NET as backend.</value>
-   </data>
-   <data name="primary.project.name">
-      <value>Airport Aggregator 2.0</value>
-      <comment>This is the primary project name.</comment>
-   </data>
-   <data name="area">
-      <value>Servicing areas in Southeast Asia like countries of Philippines, Malaysia, Singapore.</value>
-      <comment>Main customer countries</comment>
-   </data>
 </root>

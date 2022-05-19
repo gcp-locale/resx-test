@@ -54,4 +54,8 @@
       <value>Airport Aggregator 2.0</value>
       <comment>This is the primary project name.</comment>
    </data>
+   <data name="area">
+      <value>Servicing areas in Southeast Asia like countries of Philippines, Malaysia, Singapore.</value>
+      <comment>Main customer countries</comment>
+   </data>
 </root>

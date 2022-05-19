@@ -58,8 +58,21 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="incremental_test" xml:space="preserve">
+    <value>Gilbert Incremental Test</value>
+  </data>
+  <data name="incremental_test_1" xml:space="preserve">
+    <value>Gilbert Incremental Test 1</value>
+  </data>
+  <data name="incremental_comments" xml:space="preserve">
+    <value>gl - Gilbert Incremental Testing With Comments</value>
+    <comment>gl - This is comment of test incremental</comment>
+  </data>
   <data name="boolean_key" xml:space="preserve">
     <value>gl - --- true</value>
+  </data>
+  <data name="empty_string_translation" xml:space="preserve">
+    <value/>
   </data>
   <data name="key_with_description" xml:space="preserve">
     <value>gl - Now that's a decsription! (For some formats at least)</value>
@@ -75,6 +88,9 @@
   <data name="nested.key" xml:space="preserve">
     <value>This key is nested inside a namespace.</value>
     <comment>Optional developer comment about the string [Translator Comment: Optional translator comment]</comment>
+  </data>
+  <data name="null_translation" xml:space="preserve">
+    <value/>
   </data>
   <data name="pluralized_key" xml:space="preserve">
     <value>gl - This could be pluralized.</value>

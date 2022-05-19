@@ -27,6 +27,9 @@
    <data name="project.title">
       <value>Airport Management System</value>
    </data>
+   <data name="shortdescription" type="System.String">
+      <value>Airport Management System</value>
+   </data>
    <data name="version" type="System.Int32, mscorlib">
       <value>1.1.2</value>
    </data>

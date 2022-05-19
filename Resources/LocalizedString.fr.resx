@@ -80,4 +80,7 @@
   <data name="BackgroundImage" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>&gt;AAEAAAD/////AQAAAAAAAAAMAgAAADtTeX…</value>
   </data>
+  <data name="technologies" xml:space="preserve">
+    <value>Ce projet utilise la version C# 2021 et ASP.NET comme back-end.</value>
+  </data>
 </root>

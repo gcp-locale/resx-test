@@ -30,6 +30,10 @@
  <data name="incremental_test_1">
       <value>Gilbert Incremental Test 1</value>
    </data>
+   <data name="incremental_comments">
+      <value>Gilbert Incremental Testing With Comments</value>
+      <comment>This is comment of test incremental</comment>
+   </data>
    <data name="boolean_key">
       <value>--- true</value>
    </data>

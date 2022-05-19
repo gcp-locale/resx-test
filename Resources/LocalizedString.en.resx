@@ -37,9 +37,6 @@
    <data name="boolean_key">
       <value>--- true</value>
    </data>
-   <data name="empty_string_translation">
-      <value />
-   </data>
    <data name="key_with_description">
       <value>Now that's a decsription! (For some formats at least)</value>
       <comment>This is the superb description for this key!</comment>
@@ -54,9 +51,6 @@
    <data name="nested.key">
       <value>This key is nested inside a namespace.</value>
       <comment>Optional developer comment about the string [Translator Comment: Optional translator comment]</comment>
-   </data>
-   <data name="null_translation">
-      <value />
    </data>
    <data name="pluralized_key" type="string">
       <value>This could be pluralized.</value>
@@ -91,5 +85,8 @@
    </data>
    <data name="lastname">
       <value>Palmeras</value>
+   </data>
+   <data name="hobbies">
+      <value>Hiking, Island Hopping, Travel</value>
    </data>
 </root>

@@ -115,5 +115,9 @@
   </data>
   <data name="lastname" xml:space="preserve">
     <value>gl - Palmeras</value>
+    <value>Palmeras</value>
+  </data>
+  <data name="hobbies" xml:space="preserve">
+    <value>gl - Hiking, Island Hopping, Travel</value>
   </data>
 </root>

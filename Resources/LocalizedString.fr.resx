@@ -83,4 +83,8 @@
   <data name="technologies" xml:space="preserve">
     <value>Ce projet utilise la version C# 2021 et ASP.NET comme back-end.</value>
   </data>
+  <data name="primary.project.name" xml:space="preserve">
+    <value>Airport Aggregator 2.0</value>
+    <comment>This is the primary project name.</comment>
+  </data>
 </root>

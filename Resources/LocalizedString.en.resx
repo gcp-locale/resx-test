@@ -65,4 +65,7 @@
    <data name="test1">
       <value>Test 1</value>
    </data>
+   <data name="test2">
+      <value>Test 2</value>
+   </data>
 </root>

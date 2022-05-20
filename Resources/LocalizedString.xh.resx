@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <schema xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="root">
+    <element name="data">
+      <complexType>
+        <sequence>
+          <element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+        </sequence>
+        <attribute name="name" type="xsd:string"/>
+        <attribute name="type" type="xsd:string"/>
+        <attribute name="mimetype" type="xsd:string"/>
+      </complexType>
+    </element>
+  </schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="project.title">
+    <value>Airport Management System</value>
+  </data>
+  <data name="shortdescription" type="System.String">
+    <value>xh - Airport Management System</value>
+  </data>
+  <data name="version" type="System.Int32, mscorlib">
+    <value>xh - 1.1.2</value>
+  </data>
+  <data name="copyright">
+    <value>xh - Copyright © {year}. Trademark of {companyname}</value>
+  </data>
+  <data name="private" type="System.Boolean, mscorlib">
+    <value>xh - true</value>
+  </data>
+  <data name="description">
+    <value>xh - A system the aggregate airport departure and arrival in different airport accross Australia and Ocenia</value>
+  </data>
+  <data name="logo" type="System.Drawing.Bitmap, System.Drawing, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>xh - AAEAAAD/////AQAAAAAAAAAMAgAAADtTeX…</value>
+  </data>
+  <data name="MainColor" type="System.Drawing.Color, System.Drawing">Blue</data>
+  <data name="BackgroundImage" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>xh - AAEAAAD/////AQAAAAAAAAAMAgAAADtTeX…</value>
+  </data>
+  <data name="BackgroundColor" type="System.Drawing.Color, System.Drawing">Red</data>
+  <data name="ForegroundImage" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>xh - AAEAAAD/////AQAAAAAAAAAMAgAAADtTeX…</value>
+  </data>
+  <data name="area">
+    <value>xh - Servicing areas in Southeast Asia like countries of Philippines, Malaysia, Singapore.</value>
+  </data>
+  <data>
+    <value/>
+  </data>
+</root>

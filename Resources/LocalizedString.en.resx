@@ -67,4 +67,17 @@
    <data name="test.incremental.version.1">
       <value>Version 1 Incremental</value>
    </data>
+   <data name="blank.value">
+      <value></value>
+   </data>
+   <data name="newlines">
+      <value>
+
+
+
+
+
+         
+      </value>
+   </data>
 </root>

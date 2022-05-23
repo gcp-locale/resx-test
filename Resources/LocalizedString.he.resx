@@ -64,4 +64,7 @@
   <data name="project.title.subtitle">
     <value>he - Subtitle Airport Management System</value>
   </data>
+  <data name="test.incremental.version.1">
+    <value>he - Version 1 Incremental</value>
+  </data>
 </root>

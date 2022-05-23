@@ -43,7 +43,7 @@
     <value>true</value>
   </data>
   <data name="description">
-    <value>ln - A system the aggregate airport departure and arrival in different airport accross Australia and Ocenia</value>
+    <value>A system the aggregate airport departure and arrival in different airport accross Australia and Ocenia</value>
     <comment>Improve project description.</comment>
   </data>
   <data name="logo" type="System.Drawing.Bitmap, System.Drawing, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -73,5 +73,11 @@
   </data>
   <data name="incremental3" type="System.String">
     <value>ln - Test Incremental 3</value>
+  </data>
+  <data name="incremental4" type="System.String">
+    <value>Test Incremental 4</value>
+  </data>
+  <data name="incremental5" type="System.String">
+    <value>ln - Test Incremental 5</value>
   </data>
 </root>

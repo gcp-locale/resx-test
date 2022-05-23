@@ -77,4 +77,7 @@
    <data name="incremental4" type="System.String">
       <value>Test Incremental 4</value>
    </data>
+   <data name="incremental5" type="System.String">
+      <value>Test Incremental 5</value>
+   </data>
 </root>

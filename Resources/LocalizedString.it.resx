@@ -108,4 +108,8 @@
          the quick brown fox jumps over the lazy dog
          </value>
   </data>
+  <data name="BackgroundColor1" type="System.Drawing.Color, System.Drawing">Purple</data>
+  <data name="incremental2.1.1" type="System.String">
+    <value>it - Test Incremental 2.1.1</value>
+  </data>
 </root>

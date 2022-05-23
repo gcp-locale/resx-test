@@ -111,4 +111,5 @@
          the quick brown fox jumps over the lazy dog
          </value>
          </data>
+         <data name="BackgroundColor1" type="System.Drawing.Color, System.Drawing">Purple</data>
 </root>

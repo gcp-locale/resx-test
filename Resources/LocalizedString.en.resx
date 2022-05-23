@@ -61,10 +61,6 @@
       <value>Servicing areas in Southeast Asia like countries of Philippines, Malaysia, Singapore.</value>
       <comment>Main customer countries</comment>
    </data>
-   <data name="description">
-      <value>A system the aggregate airport departure and arrival in different airport accross Australia and Ocenia</value>
-      <comment>This is second description of project.</comment>
-   </data>
    <data name="incremental2" type="System.String">
       <value>Test Incremental 1</value>
    </data>

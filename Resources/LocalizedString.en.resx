@@ -61,4 +61,7 @@
       <value>Servicing areas in Southeast Asia like countries of Philippines, Malaysia, Singapore.</value>
       <comment>Main customer countries</comment>
    </data>
+   <data name="project.title.subtitle">
+      <value>Subtitle Airport Management System</value>
+   </data>
 </root>

@@ -103,4 +103,9 @@
 
       </value>
   </data>
+  <data name="test_Data">
+    <value>it - 
+         the quick brown fox jumps over the lazy dog
+         </value>
+  </data>
 </root>

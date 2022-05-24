@@ -67,4 +67,7 @@
       </value>
   </data>
   <data name="no_value"/>
+  <data name="incremental_simple">
+    <value>bn - Test Incremental Simple Data</value>
+  </data>
 </root>

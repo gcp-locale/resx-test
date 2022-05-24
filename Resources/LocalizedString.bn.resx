@@ -70,4 +70,10 @@
   <data name="incremental_simple">
     <value>bn - Test Incremental Simple Data</value>
   </data>
+  <data name="incremental_simple_with_complex">
+    <value>bn - Test Incremental Simple Data with Complex Type</value>
+  </data>
+  <data name="Complex_data" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>AAEAAAD/////AQAAAAAAAAAMAgAAADtTeX…</value>
+  </data>
 </root>
